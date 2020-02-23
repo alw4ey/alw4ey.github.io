@@ -1,0 +1,19 @@
+title: NSSAC Research
+tagline: Supporting Collaborative Research
+description: Supporting Collaborative Research
+version: Beta (2020-02-10)
+baseurl: "https://mehta-gaurav.github.io/"
+aboutUrl: "https://mehta-gaurav.github.io/about"
+dashboardUrl : "https://mehta-gaurav.github.io/dashboard"
+
+theme: just-the-docs
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
